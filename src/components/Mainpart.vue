@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>My Course goals</h1>
+        <h1>Goals</h1>
         <br>
         
             <input type="text" v-model="enteredGoalValue">
